@@ -7,15 +7,13 @@
 
 👋 Hi, I’m @cerealcommander 🥣
 
+- 🙋‍♂️ Intro: I'm a huge video game fan and professional developer but I'm mostly online to have fun. 
+- 😄 Pronouns: He/Him
+- 📍  Location: The Internet 
+- 🤝 Collab Interests: Working on sites and video game related projects with friends.
+- 📫 Get in touch: Reach me @ Cerealcommander on YT, Twitter and most major social media platforms.
 
-Here are a few details about me: 
-
-- 🕹🎮 I'm a huge video game fan.
-- 🤝 I’m looking to collaborate on projects with friends.
-- 📫 Reach me @ Cerealcommander on YT, Twitter and most major social media platforms.
-
-## Socials
-
+### Socials
 ![Twitch][twitch-badge]
 ![Youtube][youtube-badge]
 ![Twitter][twitter-badge]
